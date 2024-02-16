@@ -9,7 +9,7 @@ In this repository, you'll find some of my data analysis projects, including:
 - [Influenza-Tableau](https://github.com/nevansanalytics/Influenza-Tableau)
 - [Rockbuster-SQL](https://github.com/nevansanalytics/Rockbuster-SQL)
 - [Instacart-Python](https://github.com/nevansanalytics/Instacart-Python)
-- [World_Happiness-Analysis]([link_to_project_2](https://github.com/nevansanalytics/World_Happiness-Analysis))
+- [World_Happiness-Analysis](https://github.com/nevansanalytics/World_Happiness-Analysis)
 
 Feel free to explore these projects to get a glimpse of my analytical skills and approach to solving data-related challenges.
 
