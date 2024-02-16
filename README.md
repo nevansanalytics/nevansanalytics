@@ -21,7 +21,7 @@ For a comprehensive overview of my professional background and portfolio, please
 
 ## Contact Me
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nathan-evans-0b4633235/)
-- **Email:** (nathanevans87@gmail.com)
+- **Email:** nathanevans87@gmail.com
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or if you'd like to connect professionally.
 
