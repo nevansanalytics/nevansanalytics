@@ -20,8 +20,8 @@ Feel free to explore these projects to get a glimpse of my analytical skills and
 For a comprehensive overview of my professional background and portfolio, please refer to my resume and portfolio linked above.
 
 ## Contact Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/nathan-evans-0b4633235/)
-- **Email:** [Your Email Address](nathanevans87@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nathan-evans-0b4633235/)
+- **Email:** [Email Address](nathanevans87@gmail.com)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or if you'd like to connect professionally.
 
